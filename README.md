@@ -9,4 +9,4 @@ Instructions
 * npm install .
 
 * To run (replace with your IP address)
-* node index.js ws://10.0.1.101:2056/json
+* node index.js ws://10.0.1.101:12080/json/

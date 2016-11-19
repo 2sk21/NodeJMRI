@@ -11,4 +11,4 @@ client.on('connect', function(connection) {
     console.log('WebSocket Client Connected');
 });
 
-client.connect(process.argv[2], 'jmri');
+client.connect(process.argv[2], null);
